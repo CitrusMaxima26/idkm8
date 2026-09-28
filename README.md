@@ -1,7 +1,5 @@
 # Testing exercise
 
-Fork this project into your own GitLab account, clone the fork, and follow the exercise sheet.
-
 One function in `src/my_math.py` is wrong. Write the tests in `test/test_example.py`, then run `pytest` from this directory.
 
 ## Virtual environment
